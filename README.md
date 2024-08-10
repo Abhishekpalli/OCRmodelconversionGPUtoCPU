@@ -1,0 +1,2 @@
+# OCRmodelconversionGPUtoCPU
+converting OCR MODEL 
